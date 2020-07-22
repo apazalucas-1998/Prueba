@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+h1{
+    width:100%;
+    height:auto;
+    padding:100px;
+    margin:20px;
+    color:#fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    font-size:50px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../fondo/City_morning_sunrise_street_road_bike_1366x768.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    transition:0.8s;
+    bottom:130px;
+    right:20px;
+
+}
+
+
+
+p{
+    width:70%;
+    margin-top:50px;
+    color:#fff;
+    margin:auto; 
+}
+
+
+.tabla0{
+    width:33%;
+    margin-top:40px;
+    margin:20px auto;
+    border:2px solid #0575a8;
+   
+}
+
+
+.tabla0 thead{
+    color:#fff;
+    font-size:18px;
+    
+
+}
+.tabla0 thead tr th{
+    color:#fff;
+    padding:10px;
+    border:2px solid #0575a8;
+
+}
+.tabla0 tbody{
+    font-size:17px;
+
+}
+.tabla0 tbody tr td{
+    color:#fff;
+    padding:10px;
+    max-width:30px;
+    border:2px solid #0575a8;
+}
+
+.tabla1{
+
+margin-top:50px;
+
+margin-left:15%;
+
+margin-bottom:20px;
+
+border:2px solid #0575a8;
+position:relative;
+transition:1,8s;
+left:340px;
+}
+.tabla1 thead{
+    color:#fff;
+    font-size:18px;
+
+}
+.tabla1 thead tr th{
+    color:#fff;
+    padding:10px;
+    border:2px solid #0575a8;
+}
+.tabla1 tbody{
+    font-size:17px;
+}
+.tabla1 tbody tr td{
+    color:#fff;
+    padding:10px;
+   border:2px solid #0575a8;
+   
+}
+
+.tabla2{
+    margin-top:50px;
+    margin-left:15%;
+    margin-bottom:20px;
+    border:2px solid #0575a8;
+    position:relative;
+    transition:2,8s;
+    left:350px;
+}
+
+
+.tabla2 thead{
+    color:#fff;
+    font-size:18px;
+
+}
+.tabla2 thead tr th{
+    color:#fff;
+    padding:10px;
+    border:2px solid #0575a8;
+}
+.tabla2 tbody{
+    font-size:17px;
+}
+.tabla2 tbody tr td{
+    color:#fff;
+    padding:10px;
+    border:2px solid #0575a8;
+    
+}
+
+footer{
+    font-size: 15px;
+    color: #fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:30px;
+    margin:20px 0px 30px;
+    padding: 30px;
+    background-color:#006064;   
+    padding: 15px;
+    width: 100%;
+
+}

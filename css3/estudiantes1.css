@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial';
+    
+}
+
+
+body{
+    display:block;
+}
+img{
+    width:90%;
+    height:90%;
+    margin-top:20px;
+}
+hr{
+    width: 30%;
+    position: relative;
+    transition: 0.8s;
+    left:20px;
+    bottom:100px;
+    
+}
+
+.content_all{
+    color:#fff;
+     height:auto;
+     width:1265px ;
+     display:flex;
+     flex-direction:column;
+     align-items:center;
+     margin:auto;
+     font-size: 20px;
+     margin-top:80px;
+     position:relative;
+     transition:0.9s;
+     position: relative;
+    transition: 2.8s;
+    bottom:502.5vh;
+     
+ }
+ 
+ .content_all h1 {
+    padding: 99px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 140%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../fondo/City_morning_sunrise_street_road_bike_1366x768.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    transition: 0.8s;
+    bottom: 200px;
+}
+
+.suball0{
+    margin:auto;
+    padding:10px;
+     position: relative;
+    transition: 0.8s;
+    font-size:13px;
+    margin-left:34px;
+   
+
+    
+}
+
+.suball0 p{
+    text-decoration:none;
+     position: relative;
+    transition: 0.8s;
+    width:65%;
+    left:220px;
+
+
+
+   
+   
+}
+
+.suball1{
+    margin:50px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%;
+
+ 
+}
+
+.suball1 p b{
+    margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+
+
+}
+
+.suball1 p{
+    margin-top:20px;
+    font-size:15px;
+
+}
+
+.suball2{
+   margin:50px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%
+}
+
+.suball2 p b{
+     margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+}
+
+.suball2 p{
+      margin-top:20px;
+    font-size:15px;
+    
+}
+
+
+.suball3{
+    margin:50px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%
+}
+
+.suball3 p b{
+   margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+}
+
+.suball3 p{
+    margin-top:20px;
+    font-size:15px;
+}
+
+
+.suball4{
+    margin:50px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%
+}
+
+.suball4 p b{
+     margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+}
+
+.suball4 p{
+     margin-top:20px;
+    font-size:15px;
+    
+}
+
+
+.suball5{
+    margin:60px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%
+}
+
+.suball5 p b{
+ margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+}
+
+.suball5 p{
+     margin-top:20px;
+    font-size:15px;
+    
+}
+
+
+.suball6{
+    margin:30px;
+    padding:10px;
+    margin:50px;
+    padding:20px;
+     position: relative;
+    transition: 0.8s;
+    width:65%
+}
+
+.suball6 p b{
+   margin-top:30px;
+    font-size:20.5px;
+    position: relative;
+    transition: 0.8s;
+
+}
+
+.suball6 p{
+    margin-top:20px;
+    font-size:15px;
+    
+}
+
+.suball6 i{
+    font-size:15px;
+}
+
+.flechas {
+    position: relative;
+    transition: 1.8s;
+    top:-180vh;
+    left:5vh;
+    font-size: 50px;
+}
+
+
+
+footer{
+    font-size: 15px;
+    color: #fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:30px;
+    margin:20px 0px 30px;
+    background-color:#006064;   
+    padding: 15px;
+    width: 100%;
+
+}
+
+

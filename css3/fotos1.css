@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+h1{
+    width:100%;
+    height:auto;
+    padding:90px; 
+    margin:20px;
+    color:#fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    font-size:50px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../fondo/City_morning_sunrise_street_road_bike_1366x768.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    transition:0.8s;
+    bottom:170px;
+    right:20px;
+
+}
+
+
+body{
+    color:#fff;
+    display:block;
+}
+.foto1{
+    width: 96%;
+    height:auto;
+    margin: 70px auto;
+    padding:20px;
+    border-bottom: 0;
+    border-top: 0;
+    border-right:0;
+   
+ 
+  
+}
+
+.foto1 h2{
+    
+    margin-left:40px;
+    font-size:25px;
+    margin-top: 20px;
+    position: relative;
+    transition: 0.8s;
+    top:20px;
+
+    
+
+
+}
+
+
+.foto2{
+     width: 96%;
+    height:auto;
+    margin: 70px auto;
+    padding:20px;
+    border-bottom: 0;
+    border-left: 0;
+    border-top: 0;
+    border-left: 1px solid #fff;
+    margin-left:70vh;
+    transition:0.8s;
+    bottom:1300px;
+    right:35px;
+    
+
+    position:relative;
+   
+   
+}
+
+.foto2 h2{
+    margin-bottom:70px;
+    margin-left:40px;
+    font-size:25px;
+    position: relative;
+    transition: 0.8s;
+    bottom:15px;
+
+}
+
+
+
+.foto3{
+     width: 96%;
+    height:auto;
+    margin: 30px auto;
+    padding:20px;
+    border-bottom: 0;
+    border-left: 0;
+    border-top: 0;
+    border-left: 1px solid #fff;
+     position:relative; 
+     transition: 0.8s;
+     left: 1200px;
+     bottom:2407px;
+     right:340px;
+}
+
+.foto3 h2{
+    position: relative;
+    transition: 0.8s;
+ top:40px;
+}
+
+
+
+
+
+
+article{
+    font-weight:600;
+    font-size:15px;
+    
+    margin-top:20px;
+
+
+}
+
+
+.A1{
+    margin-top: 100px;
+    
+}
+
+.A2{
+    margin-top: 10px;
+}
+
+.A3{
+    margin-top: 80px;
+    position: relative;
+    transition: 0.8s;
+    top:47px;
+}
+
+p{
+    margin-top:20px; 
+    max-width:100%;
+
+}
+
+img{
+    width:20%;
+}
+
+footer{
+    font-size: 15px;
+    color: #fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:30px;
+    margin:20px 0px 30px;
+    position:relative;
+    transition: 0.8s;
+    left:10px;
+    background-color:#006064;   
+    padding: 15px;
+    width: 100%;
+  
+}
+
+.footer{
+    position: relative;
+    transition: 2.8s;
+    bottom:70%;
+    
+}

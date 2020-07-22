@@ -1,0 +1,458 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+
+   
+
+h1{
+    width:100%;
+    height:auto;
+    padding:100px;
+    margin:auto;
+    color:#fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    font-size:50px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../fondo/City_morning_sunrise_street_road_bike_1366x768.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    transition:0.8s;
+  bottom:140px;
+    right:0px;
+
+
+
+}
+
+
+
+.p{
+width:25%;
+margin-top:25px;
+color:#fff;
+transition:0.8s;
+position:relative;
+left:70%;
+}
+
+
+
+
+
+p{
+    color:#fff;
+    position:relative;
+    transition:0.8s;
+    margin-top:5px;
+      width:50%;
+      left:40px;
+      padding:30px;
+    
+
+}
+
+
+hr{
+    width: 30%;
+    position: relative;
+    transition: 0.8s;
+    left:300px;
+    margin-top:50px;
+
+    
+}
+#hr1{
+    position:relative;
+    transition:0.8s;
+    left:50%;
+    bottom:53px;
+}
+#hr2{
+    position:relative;
+    transition:0.8s;
+    left:35%;
+    bottom:52px;
+}
+
+
+.hr2{
+    position:relative;
+    transition:0.8s;
+    left:1%;
+    top:1px;
+}
+
+#hr3{
+    position:relative;
+    transition:0.8s;
+    left:35%;
+    bottom:52px;
+}
+
+.hr3{
+    position:relative;
+    transition:0.8s;
+    left:50%;
+    bottom:53px;
+}
+
+
+
+.cont1{
+    position:relative;
+    transition:0.8s;
+    left:50px;
+    
+}
+
+
+
+
+.cont2{
+    position:relative;
+    transition:0.8s;
+    left:50px;
+    
+
+}
+
+.cont3{
+    position:relative;
+    transition:0.8s;
+    left:50px;
+    
+}
+
+.cont3 h3{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+}
+
+.cont3 p{
+    
+}
+.hea456{
+    position:relative;
+    transition:0.8s;
+    font-size:30px;
+    color:linen;
+    font-weight:600;
+    width:49%;
+    text-align:center;
+    margin-top:160px;
+    padding:60px;
+
+
+    
+}
+
+
+.hea4567{
+     position:relative;
+    transition:0.8s;
+    font-size:30px;
+    color:linen;
+    font-weight:600;
+    width:49%;
+    text-align:center;
+    margin-top:160px;
+    padding:60px;
+    
+}
+.hea0{
+    position:relative;
+    transition:0.8s;
+    font-family:sans-serif;
+    font-size:13px;
+    left:150px;
+    width:180%;
+    
+}
+
+.hea1{
+    position:relative;
+    transition:0.8s;
+    font-size:30px;
+    color:linen;
+    font-weight:600;
+    width:45%;
+    text-align:center;
+    margin-top:10px;
+    padding:60px;
+    
+}
+
+.hea2{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+}
+
+.hea3{
+position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+}
+
+.hea4{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+}
+
+.hea5{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+}
+
+.hea6{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+}
+
+.hea7{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+        
+}
+
+.hea8{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+    
+}
+
+.hea9{
+    position:relative;
+    transition:0.8s;
+     font-size:26px;
+    color:linen;
+    font-weight:600;
+    left:60px;
+    
+    
+    
+}
+
+h2{
+    position: relative;
+    transition:0.8s;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:60px;
+    color:#fff;
+    font-size:25px;
+    width:30%;
+    left:69%;
+    bottom:400%;
+
+
+}
+
+
+.fondo{
+    position: relative;
+    transition: 0.8s;
+    margin-top: 60px;
+    left:10%;
+    width: 80%;
+    
+    
+}
+
+.margenes{
+    position: relative;
+    transition: 0.8s;
+    left:25%;
+}
+
+img{
+    position: relative;
+    transition: 0.8s;
+    left:2%;
+    width: 50% ;
+    margin-top: 30px;
+}
+
+
+
+
+footer{
+    font-size: 13px;
+    color: #fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:30px;
+    margin:20px 0px 30px;
+    padding: 30px;
+    transition: 0.8s;
+    position: relative;
+    top:10px;
+    background-color:#006064;   
+    padding: 15px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+.division{
+    position: relative;
+    transition: 0.8s;
+    bottom:730vh;
+}
+
+
+
+.tabla0{
+
+    width:33%;
+    height:10%;
+    margin:auto;
+    border:2px solid #000;
+    position: relative;
+    transition:0.8s;
+    top:20px;
+    left:33%;
+    position:relative;
+    
+   
+}
+
+
+.tabla0 thead{
+    color:#fff;
+    font-size:18px;
+    padding: 1px;
+   
+    
+}
+.tabla0 thead tr th{
+    color:#fff;
+    padding:15px;
+    border:2px solid #000;
+
+}
+.tabla0 tbody{
+    font-size:15px;
+    position: relative;
+    transition:0.8s;
+    padding: 1px;
+    
+
+}
+.tabla0 tbody tr td{
+    color:#fff;
+    max-width:40px;
+    border:2px solid #000;
+     position: relative;
+    transition:0.8s;
+   
+}
+
+.tabla0 tbody .tr1{
+    text-align: center;
+
+}
+
+.tabla0 tbody .tr2{
+    text-align: center;
+    
+}
+
+
+.tabla0 tbody .tr3{
+    text-align: center;
+    
+}
+
+.tabla0 tbody .tr4{
+    text-align: center;
+    
+}
+
+.tabla0 tbody .tr1 ,.td1{
+    width:300%;
+    text-align:none;
+    }
+    .tabla0 tbody .tr2 ,.td2{
+        width:200%;
+        text-align:none;
+    
+    }
+    
+    .tabla0 tbody .tr3 ,.td3{
+        width:200%;
+        text-align:none;
+    
+    }
+    
+    .tabla0 tbody .tr4 ,.td4{
+        width:200%;
+        text-align:none;
+    
+    }
+    
+*/
+

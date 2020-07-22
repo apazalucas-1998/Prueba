@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+:focus{
+    outline:none;
+}
+
+header nav ul li a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 15px;
+}
+
+
+
+.container{
+    width: 95%;
+    height: 35%;
+    background-image:url(../fondo/free.png);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+
+.form-box{
+    width:440px;
+    height:76.8%;
+    position:relative;
+    background-image: url(../fondo/windows10.jpg);
+    background-size: cover;
+    background-position:center center;
+    margin:6% auto;
+    padding:5px;
+    border-radius:10px;
+    overflow: hidden;
+    position: relative;
+    transition:1.8s;
+    right: 12%;
+}
+
+.form-box2{
+    width:600px;
+    height:20vh;
+    padding-bottom:80.5vh;
+    position:relative;
+    margin:6% auto;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../fondo/68356509-fondo-del-vector-resumen-de-neón-formas-brillantes-gráfico-digital-para-el-folleto-página-web-folleto-impre.jpg);
+    background-size: cover;
+    background-position:center center;
+   transition:1.8s;
+    overflow: hidden;
+    left:305px;
+
+}
+
+
+
+.button-box{
+    width:240px;
+    margin:30px auto;
+    position:relative;
+    box-shadow: 0 0 20px 9px #0051ff;
+    border-radius:30px;
+    display:flex;
+    
+}
+
+
+.toggle-btn{
+    padding:10px 22px;
+    cursor:pointer;
+    background:transparent;
+    border:0px;
+    outline:none;
+    position: relative;
+    color:#fff;
+
+}
+
+
+#elegir{
+    top:0;
+    left:0;
+    position:absolute;
+    width:120px;
+    height: 100%;
+    background: linear-gradient(to bottom, #212121,#ec0404 );
+    border-radius: 30px;
+    transition: 0.8s;
+}
+
+
+.redes{
+    margin:30px auto;
+    text-align:center;
+}
+
+.redes img{
+    width:45px;
+    margin:2px 11px;
+    cursor: pointer;
+    border-radius: 50% ;
+    
+    }
+
+   
+    
+    .input-group{
+        top:280px;
+        position:absolute;
+        width:280px;
+        transition:0.8s;
+       
+    }
+
+    .input-group1{
+
+        top:180px;
+        position:absolute;
+        width:280px;
+        transition:0.8s;
+
+    }
+
+
+    .input-field{
+        width: 100%;
+        padding: 10px 0;
+        margin: 5px 0;
+        border-top: 0;
+        border-left: 0;
+        border-bottom: 2px solid #1c2a48;
+        border-right:0;
+        background: transparent;
+        color: #fff;
+        
+    }
+
+    .submit-btn{
+        width: 100%;
+        padding: 10px 30px;
+        cursor: pointer;
+        display: block;
+        margin: auto;
+         background: linear-gradient(to bottom, #212121,#ec0404 );
+        border: 0;
+        outline: none;
+        border-radius: 30px;
+        color:#fff;
+    }
+
+    .check-box{
+        margin:30px 10px 30px 0;
+    }
+
+    span{
+        color:#fff;
+        bottom: 62px;
+        position: absolute;
+        font-size: 13px;
+
+    }
+
+    .label{
+        margin-top:9px;
+        color:#fff;
+        font-size: 13px;
+    }
+
+    
+    
+    #fechanac{
+        margin-top:10px;
+        display:flex;
+        padding:0px 100px 0px 0px;
+        right:30%;
+        border-top:2px solid  #5A5A5A;
+        border-left:2px solid  #5A5A5A;
+        border-right:2px solid  #5A5A5A;
+        border-bottom: 2px solid green;
+        background: linear-gradient(to bottom, #000,#00801d9e);
+        color: #fff;
+
+    }
+
+    #sexo{
+        margin-top:10px;
+         padding:0px 100px 0px 0px;
+        top:17%;
+        border-top:2px solid  #5A5A5A;
+        border-left:2px solid  #5A5A5A;
+        border-right:2px solid  #5A5A5A;
+        border-bottom: 2px solid green;
+        background: linear-gradient(to bottom, #000,#00801d9e);
+        color: #fff;
+        
+    }
+
+    footer{
+    font-size: 15px;
+    color: #fff;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-top:30px;
+    margin:20px 0px 30px;
+
+}
+
+/*Botones para hacer efecto con javascript*/
+
+
+    #login{
+        left:50px;
+    }
+
+    #registrar{
+        left :450px;
+    }
+
+    
+    /*Errores*/
+
+    /*Registro exitoso*/
+
+  
